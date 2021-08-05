@@ -31,7 +31,8 @@ def imgNumbering(imageList):
 
         img = Image.open(imagePath)
         text = str(i+1)
-
+        
+        #creating an object of draw()
         draw = ImageDraw.Draw(img)
 
         #obtaining the width and height of the input text
