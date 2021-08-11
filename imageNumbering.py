@@ -54,7 +54,7 @@ def imgNumbering(imageList):
 ---------Task-Completed---------\n\n""".format(path))
 
 
-#if __name__ == "__main__":
+if __name__ == "__main__":
     img_list=[]
 
     #creating list of image path
