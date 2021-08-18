@@ -57,7 +57,7 @@ def imgNumbering(imageList):
 if __name__ == "__main__":
     img_list=[]
 
-    creating list of image path
+#     creating list of image path
     imagePathList = glob.glob('Data/*.jpg')
     imgNumbering(imagePathList)
 
