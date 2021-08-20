@@ -2,7 +2,7 @@ from PIL import Image, ImageDraw, ImageFont
 import glob
 import os
 from time import sleep
-
+.
 
 
 def imgNumbering(imageList):
